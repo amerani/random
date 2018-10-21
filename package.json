@@ -1,0 +1,24 @@
+{
+  "name": "@amerani/random",
+  "version": "1.0.0",
+  "description": "random number generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "math",
+    "random",
+    "number",
+    "generator",
+    "crypto"
+  ],
+  "author": "Alek Merani",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
