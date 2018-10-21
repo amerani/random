@@ -1,7 +1,7 @@
 {
   "name": "@amerani/random",
   "version": "1.0.0",
-  "description": "random number generator",
+  "description": "another random number generator",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amerani/random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amerani/random/issues"
+  },
+  "homepage": "https://github.com/amerani/random#readme"
 }
